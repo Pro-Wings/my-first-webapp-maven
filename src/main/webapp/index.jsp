@@ -2,10 +2,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>User Details</title>
+<title>Student Details</title>
 </head>
 <body >
-    <h3>Fill in the Form</h3>
+    <h3>Fill Student Details</h3>
   
     <form action="submit" method="post">
         <table>
@@ -18,6 +18,11 @@
                 <td>Phone Number:</td>
                 <td><input type="text" name="phone" /></td>
             </tr>
+            <tr>
+                <td>Roll Number:</td>
+                <td><input type="text" name="roll" /></td>
+            </tr>
+            
   
         </table>
   
